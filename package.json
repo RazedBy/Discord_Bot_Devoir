@@ -1,5 +1,5 @@
 {
-  "name": "discord-",
+  "name": "discord-bot-devoir",
   "version": "1.0.0",
   "description": "Discord bot for add, show and delete homework.",
   "main": "index.js",
