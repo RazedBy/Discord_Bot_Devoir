@@ -1,3 +1,4 @@
+//Initialisation de l'array qui contiendra les devoirs
 {
     "devoirs": []
 }
