@@ -1,4 +1,7 @@
-//Initialisation de l'array qui contiendra les devoirs
+
 {
+    _commentaire: Initialisation de l'array qui contiendra les devoirs
+    {
     "devoirs": []
+    }
 }
